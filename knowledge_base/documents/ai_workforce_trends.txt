@@ -1,0 +1,25 @@
+AI Workforce Trends
+
+Artificial intelligence is changing how work is performed across many industries. 
+Routine and repetitive activities are increasingly supported or automated by AI systems.
+
+Software development is becoming more AI-assisted. Developers increasingly need skills
+in AI-assisted coding, code review, system design, testing and AI solution architecture.
+
+Data and analytics roles are also changing. AI can assist with data analysis, visualization,
+report generation and insight generation. Professionals increasingly need AI-assisted
+analytics and advanced machine learning skills.
+
+Software testing is becoming more automated. AI can generate test cases, identify defects
+and support intelligent test automation. QA professionals therefore need stronger skills
+in AI testing and intelligent automation.
+
+Customer support is also being transformed. AI can handle repetitive support requests,
+while human workers increasingly focus on complex problem solving, communication and
+customer relationships.
+
+Human capabilities remain important. Strategic thinking, leadership, communication,
+judgment, creativity and problem solving continue to be valuable when AI is introduced.
+
+Organizations need reskilling strategies to help employees move from routine tasks toward
+AI-assisted and higher-value activities.

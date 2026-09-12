@@ -1,0 +1,21 @@
+Industry,Process,Activity,Role,Current_Skill,AI_Impact,Future_Skill,Impact_Score,Reskilling_Level,Evidence
+IT Services,Software Development,Code Generation,Software Developer,Coding,AI-Augmented,AI-Assisted Development,4,Medium,Generative AI can assist code creation
+IT Services,Software Development,Code Review,Software Developer,Manual Code Review,Changing,AI Code Review,4,Medium,AI tools can automate routine review checks
+IT Services,Software Development,Architecture Design,Software Architect,System Architecture,Increasing,AI Solution Architecture,3,High,AI adoption increases need for AI-ready architecture
+IT Services,Software Testing,Test Case Creation,QA Engineer,Manual Testing,Declining,AI Testing,5,High,AI can generate and execute routine test cases
+IT Services,Software Testing,Test Automation,QA Engineer,Automation Testing,Increasing,Intelligent Test Automation,3,Medium,AI improves automated testing
+IT Services,Data Analytics,Data Analysis,Data Analyst,Data Analysis,AI-Augmented,AI-Assisted Analytics,4,Medium,AI assists analysis and insight generation
+IT Services,Data Analytics,Data Visualization,Data Analyst,Data Visualization,Changing,AI-Powered Visualization,3,Medium,AI can generate charts and summaries
+IT Services,Data Analytics,Machine Learning,Data Scientist,Machine Learning,Increasing,Generative AI and ML Engineering,4,High,AI adoption increases demand for advanced AI skills
+IT Services,Customer Support,Ticket Resolution,Support Engineer,Manual Ticket Handling,Declining,AI-Assisted Support,5,High,AI can resolve repetitive support requests
+IT Services,Customer Support,Problem Diagnosis,Support Engineer,Problem Solving,AI-Augmented,AI-Assisted Troubleshooting,3,Medium,AI can assist diagnosis
+IT Services,Project Management,Project Planning,Project Manager,Project Planning,AI-Augmented,AI-Augmented Project Management,3,Medium,AI can support planning and risk analysis
+IT Services,Project Management,Stakeholder Communication,Project Manager,Communication,Enduring Human Capability,Strategic Communication,1,Low,Human communication remains important
+IT Services,Business Analysis,Requirements Gathering,Business Analyst,Requirements Analysis,AI-Augmented,AI-Assisted Requirements Engineering,3,Medium,AI can summarize and analyze requirements
+IT Services,Business Analysis,Process Analysis,Business Analyst,Process Analysis,Increasing,AI Process Intelligence,3,Medium,AI enables deeper process analysis
+IT Services,Human Resources,Candidate Screening,HR Specialist,Resume Screening,Declining,AI-Assisted Talent Acquisition,5,High,AI can automate initial screening
+IT Services,Human Resources,Interviewing,HR Specialist,Interviewing,Enduring Human Capability,Human-Centered Interviewing,1,Low,Human judgment and interaction remain important
+IT Services,Cybersecurity,Threat Detection,Security Analyst,Threat Monitoring,AI-Augmented,AI-Driven Threat Detection,4,High,AI improves threat detection
+IT Services,Cybersecurity,Security Analysis,Security Analyst,Security Analysis,Increasing,AI Security Analytics,4,High,AI increases security analysis capabilities
+IT Services,Leadership,Decision Making,Technology Manager,Decision Making,AI-Augmented,AI-Assisted Decision Making,3,Medium,AI provides decision-support insights
+IT Services,Leadership,Strategic Thinking,Technology Manager,Strategic Thinking,Enduring Human Capability,AI Strategy and Leadership,1,Low,Strategic human judgment remains essential
